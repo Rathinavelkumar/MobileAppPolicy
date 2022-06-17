@@ -1,0 +1,23 @@
+site_name: RATHNA SCHOOLS
+site_url: https://apppolicies.rathnaschools.com
+site_author: RATHINAVELKUMAR M
+site_description: >-
+  Privacy policy page for mobile apps published in play store
+
+nav:
+    - Area of the triangle: index.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+theme:
+  name: material
+
+extra:
+  analytics:
+    provider: google
+    property: G-##########
+  social:
+  - icon: fontawesome/solid/globe
+    link: https://www.rathnaschools.com
