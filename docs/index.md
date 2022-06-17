@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# Welcome to RATHNA SCHOOLS
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full details visit [Rathnaschools](https://www.rathnaschools.com).
 
-## Commands
+## List of apps
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* `Smart Health` - Health App
+* `Learn Python` - Learn Python online

@@ -6,6 +6,7 @@ site_description: >-
 
 nav:
     - Area of the triangle: index.md
+    - Smart Health Privacy: Smart_health_privacy_policy.md
 
 markdown_extensions:
   - attr_list
